@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi, I'm Mansa Keïta 👋🏾
+* I’m a self-taught Ruby/Rails developer.
+* I’m 23.
+* I live in France (UTC+1/2).
 
-<!--
-**mansakondo/mansakondo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I worked on...
+### Open-source projects
+* A [PR](https://github.com/rails/rails/pull/43399) (extracted from a [gem](https://github.com/mansakondo/activemodel-embedding)) to model semi-structured data in Rails.
+* A [gem](https://github.com/mansakondo/parallelixir) which delegates Ruby background processing to Elixir.
+* A simple Rails [plugin](https://github.com/mansakondo/polymorphic_aliases) which generates aliases for your polymorphic associations.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sample apps
+* An [application](https://karan-demo.herokuapp.com/) which indexes [encoded bibliographic data](https://en.wikipedia.org/wiki/MARC_standards), and provides a minimal [discovery interface](https://blog.andornot.com/blog/discovery-interfaces-a-new-opac-for-libraries/) with hierarchical facets.
+* A front-end [challenge](https://rest-countries-challenge.herokuapp.com/) from [Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca), with responsive and progressively enhanced views made with TailwindCSS and Hotwire.
+* Yet another insta [clone](https://github.com/mansakondo/yet-another-insta-clone).
