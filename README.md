@@ -12,4 +12,4 @@
 ### Sample apps
 * An [application](https://karan-demo.herokuapp.com/) which indexes [encoded bibliographic data](https://en.wikipedia.org/wiki/MARC_standards), and provides a minimal [discovery interface](https://blog.andornot.com/blog/discovery-interfaces-a-new-opac-for-libraries/) with hierarchical facets.
 * A front-end [challenge](https://rest-countries-challenge.herokuapp.com/) from [Frontend Mentor](https://www.frontendmentor.io/challenges/rest-countries-api-with-color-theme-switcher-5cacc469fec04111f7b848ca), with responsive and progressively enhanced views made with TailwindCSS and Hotwire.
-* Yet another insta [clone](https://github.com/mansakondo/yet-another-insta-clone).
+* A [live Hotwire counter](https://github.com/mansakondo/hotwire-counter) deployed on [Fly.io](https://fly.io/)
