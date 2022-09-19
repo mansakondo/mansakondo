@@ -4,10 +4,10 @@
 * I live in France (UTC+1/2).
 
 ## I've worked on...
+### Open-source contributions
+* [Add ability to handle reconnects with the `connected()` callback](https://github.com/rails/rails/pull/45738)
 ### Open PRs
 * An ActiveModel [PR](https://github.com/rails/rails/pull/43399) to model semi-structured data in Rails.
-* An ActionCable [PR](https://github.com/rails/rails/pull/45738) to provide a way to handle
-reconnects
 * An ActionCable [draft PR](https://github.com/rails/rails/pull/45764) to allow channel
 subscribers to get the history of messages sent in their absence, after each reconnect
 * A [PR](https://github.com/rubiety/nilify_blanks/pull/58) to add support for the Postgres array and hstore types in the `nilify_blanks` gem
