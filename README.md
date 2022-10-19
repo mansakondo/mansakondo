@@ -4,7 +4,7 @@
 * I live in France (UTC+1/2).
 
 ## I've worked on...
-### Open-source contributions (highlights)
+### Some open-source contributions
 #### Rails
 * [Add ability to handle reconnects with the `connected()` callback](https://github.com/rails/rails/pull/45738)
 #### railsdevs.com
@@ -19,7 +19,6 @@ subscribers to get the history of messages sent in their absence, after each rec
 * [Phlexible Calendar](https://github.com/mansakondo/phlexible_calendar) : Build custom calendars with Phlex.
 * [Parallelixir](https://github.com/mansakondo/parallelixir) : A Ruby background job framework powered by Elixir.
 * [Polymorphic Aliases](https://github.com/mansakondo/polymorphic_aliases) : Generates aliases for polymorphic associations.
-
 ### Sample apps
 * A [reactive calendar](https://github.com/mansakondo/stimulus-rephlex-calendar-demo) built with StimulusReflex and Phlex.
 * A [live counter](https://github.com/mansakondo/hotwire-counter) built with Turbo Streams and Kredis and deployed in multiple regions with [Fly.io](https://fly.io/)
