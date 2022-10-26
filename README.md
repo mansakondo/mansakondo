@@ -16,10 +16,10 @@
 subscribers to get the history of messages sent in their absence, after each reconnect
 * A [PR](https://github.com/rubiety/nilify_blanks/pull/58) to add support for the Postgres array and hstore types in the `nilify_blanks` gem
 ### Gems
-* [ActiveModel Embedding](https://github.com/mansakondo/activemodel-embedding) to model semi-structured data in Rails.
-* [Phlexible Calendar](https://github.com/mansakondo/phlexible_calendar) : Build custom calendars with Phlex.
-* [Parallelixir](https://github.com/mansakondo/parallelixir) : A Ruby background job framework powered by Elixir.
-* [Polymorphic Aliases](https://github.com/mansakondo/polymorphic_aliases) : Generates aliases for polymorphic associations.
+* [ActiveModel Embedding](https://github.com/mansakondo/activemodel-embedding): Model semi-structured data in Rails.
+* [Phlexible Calendar](https://github.com/mansakondo/phlexible_calendar): Build custom calendars with Phlex.
+* [Parallelixir](https://github.com/mansakondo/parallelixir): A Ruby background job framework powered by Elixir.
+* [Polymorphic Aliases](https://github.com/mansakondo/polymorphic_aliases): Generate aliases for your polymorphic associations.
 ### Sample apps
 * A [reactive calendar](https://github.com/mansakondo/stimulus-rephlex-calendar-demo) built with StimulusReflex and Phlex.
 * A [live counter](https://github.com/mansakondo/hotwire-counter) built with Turbo Streams and Kredis and deployed in multiple regions with [Fly.io](https://fly.io/)
