@@ -1,20 +1,12 @@
 ## Hi, I'm Mansa Keïta 👋🏾
-* I’m a self-taught software writer.
-* I’m 24.
-* I live in France (UTC+1/2).
+I’m a 25-year-old self-taught software writer who wants to write meaningful software.
 
 ## I've worked on...
-### Some open-source contributions
-#### Rails
+### Some open-source PRs
 * [Add ability to handle reconnects with the `connected()` callback](https://github.com/rails/rails/pull/45738)
-#### railsdevs.com
-* [Hide page 2+ of search results for non-subscribers](https://github.com/joemasilotti/railsdevs.com/pull/661)
-* [Paywall location and timezone filters](https://github.com/joemasilotti/railsdevs.com/pull/674)
-### Open PRs
 * An ActiveModel [PR](https://github.com/rails/rails/pull/43399) to model semi-structured data in Rails.
 * An ActionCable [PR](https://github.com/rails/rails/pull/45764) to allow channel
 subscribers to get the history of messages sent in their absence, after each reconnect
-* A [PR](https://github.com/rubiety/nilify_blanks/pull/58) to add support for the Postgres array and hstore types in the `nilify_blanks` gem
 ### Gems
 * [ActiveModel Embedding](https://github.com/mansakondo/activemodel-embedding): Model semi-structured data in Rails.
 * [Phlexible Calendar](https://github.com/mansakondo/phlexible_calendar): Build custom calendars with Phlex.
